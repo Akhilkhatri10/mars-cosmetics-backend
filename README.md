@@ -6,10 +6,10 @@ Built with **Node.js, Express, and MongoDB**, providing secure APIs for authenti
 ---
 
 🔗 **Frontend Repository:**  
-https://github.com/your-username/mars-cosmetics-frontend
+https://github.com/Akhilkhatri10/mars-cosmetics-frontend
 
 🌐 **API Base URL (Production):**  
-https://your-render-backend-url/api
+https://mars-cosmetics-backend.onrender.com/api
 
 ---
 
@@ -60,7 +60,6 @@ src/
 ├─ config/
 ├─ utils/
 └─ server.js
-
 ```
 ---
 ## ⚙️ Environment Variables
@@ -80,7 +79,7 @@ Use `.env.example` for reference.
 ## 🛠️ Local Development
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/mars-cosmetics-backend
+git clone https://github.com/Akhilkhatri10/mars-cosmetics-backend
 cd mars-cosmetics-backend
 ```
 ### Install dependencies
@@ -150,7 +149,8 @@ Akhilesh Khatri
 -
 MERN Stack / Frontend Developer  
 
-- #### LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
+- #### LinkedIn: [linkedin.com/in/akhilesh-khatri-78696b209](https://www.linkedin.com/in/akhilesh-khatri-78696b209)
+
 
 ---
 ## ⭐️ Show Some Love
